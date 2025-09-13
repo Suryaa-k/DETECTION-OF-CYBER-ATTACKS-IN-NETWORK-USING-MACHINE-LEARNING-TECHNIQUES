@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset & Output
+clean.txt
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Matplotlib & Keras
+*.png
+*.pdf
+*.svg
+*.keras
